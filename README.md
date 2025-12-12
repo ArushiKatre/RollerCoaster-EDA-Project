@@ -54,6 +54,7 @@ These attributes allow for a wide range of analytical questions including manufa
 
 ## Project Structure
 - EDA.ipynb: Notebook containing the complete analysis
+- coaster_db.csv: Dataset downloaded from kaggle
 - README.md: Project documentation
 
 ## Future Enhancements
